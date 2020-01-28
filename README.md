@@ -1,4 +1,4 @@
-Digital health and data analysis 
+# Digital Health and Data Analytics 
 
 
 * Data access  https://mimic.physionet.org/gettingstarted/access/
