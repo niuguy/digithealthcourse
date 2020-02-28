@@ -9,7 +9,7 @@
 * Python tutorial  https://bugs.python.org/file47781/Tutorial_EDIT.pdf 
 
 
-How to access github files on Colab
+### How to access github files on Colab
 
 1. Visit colab website   https://colab.research.google.com/notebook
 
