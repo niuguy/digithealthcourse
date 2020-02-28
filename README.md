@@ -7,3 +7,16 @@
 * Colab  https://colab.research.google.com/
 * Colab + Bigquery   https://colab.research.google.com/notebooks/bigquery.ipynb#scrollTo=SeTJb51SKs_W
 * Python tutorial  https://bugs.python.org/file47781/Tutorial_EDIT.pdf 
+
+
+How to access github files on Colab
+
+1. Visit colab website   https://colab.research.google.com/notebook
+
+2. Find the github tab on the pop-out window
+
+![colabgithub](https://github.com/niuguy/digithealthcourse/blob/master/pics/colab+github.jpg?raw=true)
+
+3. Fill the address with the notebook url in this github repository,like (https://github.com/niuguy/digithealthcourse/blob/master/%5B000%5DSql_basics.ipynb)
+
+
