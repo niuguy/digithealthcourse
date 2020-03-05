@@ -7,6 +7,8 @@
 * Colab  https://colab.research.google.com/
 * Colab + Bigquery   https://colab.research.google.com/notebooks/bigquery.ipynb#scrollTo=SeTJb51SKs_W
 * Python tutorial  https://bugs.python.org/file47781/Tutorial_EDIT.pdf 
+* Python for data analysis https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf
+
 
 
 ### How to access github files on Colab
