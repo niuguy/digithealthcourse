@@ -11,7 +11,7 @@
 * Deep learning(Andrew Ng) https://www.coursera.org/specializations/deep-learning
 * Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext?utm_campaign=tlcoronavirus20&utm_source=twitter&utm_medium=social
 * Coronavirus: Why You Must Act Now https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
-
+* Coronavirus monitoring  https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
 ### How to access github files on Colab
 
