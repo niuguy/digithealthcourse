@@ -8,7 +8,9 @@
 * Colab + Bigquery   https://colab.research.google.com/notebooks/bigquery.ipynb#scrollTo=SeTJb51SKs_W
 * Python tutorial  https://bugs.python.org/file47781/Tutorial_EDIT.pdf 
 * Python for data analysis https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf
-
+* Deep learning(Andrew Ng) https://www.coursera.org/specializations/deep-learning
+* Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext?utm_campaign=tlcoronavirus20&utm_source=twitter&utm_medium=social
+* Coronavirus: Why You Must Act Now https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
 
 
 ### How to access github files on Colab
